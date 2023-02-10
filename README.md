@@ -27,3 +27,6 @@ To debug HTTP requests, run:
 WARNING: `-yt-trace` logs the entire HTTP request, including *Authorization* token, so take care
 when using it or sharing any logs generated from it.
 
+Originally from https://github.com/drichardson/youtrack
+
+
